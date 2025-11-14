@@ -100,3 +100,37 @@ To learn more about React Native, take a look at the following resources:
 # Wedding-Planner-App_v1
 Wedding Planner App v1 — a React Native solution for organizing tasks, events, and wedding planning workflows
 >>>>>>> 3d4e44711ebada67987dd3e783cfab5d194cbfa3
+## Overview
+**Wedding Planner App v1** is a React Native application designed to simplify the process of wedding planning. It allows users to manage tasks, events, venues, budgets, and guest lists efficiently, all in one intuitive interface.  
+
+This app is the **first version (v1)**, focusing on core wedding planning functionalities with a smooth user experience.
+## Features
+- **Task Management:** Add, update, and delete tasks for your wedding checklist.  
+- **Budget Calculator:** Keep track of wedding expenses and manage your budget efficiently.  
+- **Venue Selection:** Browse and select venues for your events.  
+- **Guest Management:** Manage your guest list with ease.  
+- **User Authentication:** Sign-up, login, and role selection for personalized experience.  
+- **Navigation:** Easy navigation with bottom tabs and custom headers.  
+- **Responsive UI:** Designed for both Android and iOS devices.
+  ## Tech Stack
+- **Frontend:** React Native  
+- **Navigation:** React Navigation  
+- **State Management:** React Hooks (useState, useEffect)  
+- **Storage:** AsyncStorage  
+- **Platform:** Android / iOS  
+
+---
+
+## Installation
+1. Clone the repository:  
+```bash
+git clone https://github.com/faheemrid/Wedding-Planner-App_v1.git
+Future Enhancements
+
+Push notifications for reminders
+
+Cloud-based database (Firebase) for multi-device sync
+
+Advanced guest management
+
+Event timeline and calendar integration
