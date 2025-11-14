@@ -100,4 +100,3 @@ To learn more about React Native, take a look at the following resources:
 # Wedding-Planner-App_v1
 Wedding Planner App v1 — a React Native solution for organizing tasks, events, and wedding planning workflows
 >>>>>>> 3d4e44711ebada67987dd3e783cfab5d194cbfa3
->>>>>>> # Wedding Planner App v1
